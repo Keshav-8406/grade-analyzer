@@ -28,7 +28,7 @@ def classify_grades(averages):
 
 
 # Task 3
-def generate_report(classified, passing_avg=60):  
+def generate_report(classified, passing_avg=70):  
     print("===== Student Grade Report =====\n")
 
     passed = 0
